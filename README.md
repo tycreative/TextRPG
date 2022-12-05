@@ -35,6 +35,6 @@ Player can use weapons against an enemy. Enemy will fight back.
 Updated healthbars are shown as fight progresses.
 ![Healthbar Screen](screenshots/fightingView1.png?raw=true)
 
-Player gains the experience and coins from the enemy.
+Player gains experience and coins from defeating the enemy.
 The experience can be used to upgrade player stats, like health, strength, and carrying capacity.
 ![Victor Screen](screenshots/fightingView2.png?raw=true)
