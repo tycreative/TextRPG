@@ -1,0 +1,14 @@
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.AssemblyReference.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+D:\Users\Creative\OneDrive\Programming\C# Programming\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache

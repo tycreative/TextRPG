@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvUYhFdGSTjZnnnLRr/f7dy72pmksNMNLaUp3Os2LU3MnP46n0Sn2QekFrMgBX7NqqnkrOfWQtZNsmgQCplgzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Creative\\OneDrive\\Programming\\C# Programming\\RPG\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creative\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
