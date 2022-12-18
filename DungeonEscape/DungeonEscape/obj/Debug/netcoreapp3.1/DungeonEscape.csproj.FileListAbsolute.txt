@@ -1,0 +1,14 @@
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.csproj.AssemblyReference.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.AssemblyInfoInputs.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.AssemblyInfo.cs
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.csproj.CoreCompileInputs.cache
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.exe
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.deps.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.runtimeconfig.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.runtimeconfig.dev.json
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.dll
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\bin\Debug\netcoreapp3.1\DungeonEscape.pdb
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.dll
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.pdb
+D:\Users\Creative\OneDrive\Programming\C# Programming\DungeonEscape\DungeonEscape\obj\Debug\netcoreapp3.1\DungeonEscape.genruntimeconfig.cache
