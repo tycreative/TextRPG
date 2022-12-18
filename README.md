@@ -36,5 +36,10 @@ Updated healthbars are shown as fight progresses.
 ![Healthbar Screen](screenshots/fightingView1.png?raw=true)
 
 Player gains experience and coins from defeating the enemy.
-The experience can be used to upgrade player stats, like health, strength, and carrying capacity.
 ![Victor Screen](screenshots/fightingView2.png?raw=true)
+
+The experience can be used to upgrade player stats, like health, strength, and carrying capacity.
+![Upgrade Command](screenshots/upgradeView.png?raw=true)
+
+However if the player dies while fighting the enemy, the game will end.
+![Loss Screen](screenshots/loseView.png?raw=true)
